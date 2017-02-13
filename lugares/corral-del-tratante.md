@@ -1,0 +1,10 @@
+---
+layout: page
+title: Corral del Tratante
+header-img: /img/fondo-azul.png
+category: Etnográfico
+comments: 'true'
+---
+
+
+Construcción rural en piedra seca.
