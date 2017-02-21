@@ -1,14 +1,14 @@
 # Site settings
-title: Catálogo de Patrimonio de Campo de Criptana
+title: Catálogo del Patrimonio de Campo de Criptana
 header-img: img/home-bg.jpg
-email: forosocialcriptana@gmail.com
+email: catalogopatrimoniocriptana@gmail.com
 description: "Lugares de interés histórico, artístico, ambiental y etnográfico de Campo de Criptana"
 baseurl: ""
-url: "http://forosocialcriptana.github.io"
-twitter_username: fscriptana
-facebook_username:  forosocialcriptana
-instagram_username: forosocialcriptana
-discus_shortname: forosocialcriptana
+url: "https://patrimoniocriptana.github.io/"
+twitter_username: patrimocriptana
+facebook_username: 1646242979005609
+discus_shortname: patrimoniocriptana
+email_username: catalogopatrimoniocriptana@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

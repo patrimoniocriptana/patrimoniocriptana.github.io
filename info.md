@@ -1,26 +1,12 @@
 ---
 layout: page
-title: "Sobre el Foro Social de Campo de Criptana"
-description: "Por una democracia más participativa"
+title: "Sobre el Catálogo del Patrimonio de Campo de Criptana"
+description: "Conocer y proteger nuestro patrimonio"
 header-img: /img/home-bg.jpg
 ---
 
-El Foro Social de Campo de Criptana es un espacio socio-político de participación ciudadana abierto, horizonal y no partidario, que pretende construir una democracia más participativa en Campo de Criptana
+El Catálogo de Patrimonio de Campo de Criptana es una iniciativa ciudadana que pretende dara a conocer y poner en valor el patrimonio histórico, artístico, ambiental y etnográfico del término municipal de Campo de Criptana. Para ello pretendemos hacer una recopilación de todos los lugares de interés histórico, artístico, ambiental y etnográfico de nuestro pueblo.
 
-Aunque los social y lo político afecta a todos los ámbitos de nuestra vida, los principales temas que abarca son:
+A esta iniciativa, que partió del [Foro Social de Campo de Criptana](http://forosocialcriptana.com), se han ido incorporando varias personas cuyo objetivo común es  contribuir al conocimiento, cuidado y conservación del patrimonio criptanense.
 
-- Democracia participativa
-- Participación ciudadana
-- Transparencia
-- Buen gobierno
-- Datos abiertos
-- Rendición de cuentas
-- Presupuestos participativos
-- Asociacionismo
-- Sindicalismo
-- Feminismo
-- Ecologistmo
-- Educación para la ciudadanía
-- Conocimiento libre
-
-Para más información vista la página http://forosocialcriptana.com
+Nos gustaría contar con la colaboración de quienes puedan aportar cualquier dato para ampliar o detallar los lugares que hasta el momento se han catalogado; ponemos a disposición esta página para contactar con nosotros así como el correo [catalogopatrimoniocriptana@gmail.com](mailto:catalogopatrimoniocriptana@gmail.com)

@@ -4,14 +4,16 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
+                    {% if site.url %}
                     <li>
-                        <a href="http://forosocialcriptana.com">
+                        <a href="{{ site.url }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-home fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
+                    {% endif %}
                     {% if site.twitter_username %}
                     <li>
                         <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -32,9 +34,9 @@
                         </a>
                     </li>
                     {% endif %}
-                    {% if site.email_username %}
+                    {% if site.email %}
                     <li>
-                        <a href="mailto:{{ site.email_username }}">
+                        <a href="mailto:{{ site.email }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -43,7 +45,7 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright">Copyright &copy; Foro Social de Campo de Criptana {{ site.time | date: '%Y' }}</p>
+                <p class="copyright">Copyright &copy; Catálogo del Patrimonio de Campo de Criptana {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
     </div>
