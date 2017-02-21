@@ -3,6 +3,7 @@ layout: page
 title: "Contacta"
 description: "Envíanos tus preguntas, comentarios o sugerencias"
 header-img: "/img/home-bg.jpg"
+comments: true
 ---
 
 Si estás interesado en colaborar en este catálogo, no dudes en ponerte en contacto con nosotros
