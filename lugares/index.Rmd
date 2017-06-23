@@ -1,0 +1,34 @@
+---
+layout: page
+title: Índice de lugares
+header-img: /img/home-bg.jpg
+---
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=F, cache=F, prompt=F, tidy=T, comment=NA, message=F, warning=F)
+opts_knit$set(width=75)
+```
+## Índice por categorías
+
+<i class="fa fa-tag"></i> &nbsp;<a href="{{ site.github.url }}/lugares/categorias/index.html#ambiental">Ambiental</a> &nbsp;&nbsp;&nbsp;
+<i class="fa fa-tag"></i> &nbsp;<a href="{{ site.github.url }}/lugares/categorias/index.html#artístico">Artístico</a> &nbsp;&nbsp;&nbsp;
+<i class="fa fa-tag"></i> &nbsp;<a href="{{ site.github.url }}/lugares/categorias/index.html#etnográfico">Etnográfico</a> &nbsp;&nbsp;&nbsp;
+<i class="fa fa-tag"></i> &nbsp;<a href="{{ site.github.url }}/lugares/categorias/index.html#histórico">Histórico</a> &nbsp;&nbsp;&nbsp;
+
+## Índice alfabético
+
+`r paste(unlist(lapply(data$Título, function(x) paste0("- [", x, "](", gsub(" ", "-", tolower(iconv(x, to='ASCII//TRANSLIT'))), "/index.html)"))), collapse="\n")`
+
+## Estadísticas de lugares
+`r paste0("Número de lugares catalogados: <b>", nrow(data), "</b>\n")`
+
+```{r estadisticas, fig.path='../img/'}
+  table <- table(data$Tipo.de.valor)
+  labels <- paste(names(table), "\n", table, sep="")
+  pie(table, labels = labels, main="Lugares catalogados por categorías", col=c("#00FF00FF", "#FFFF00FF", "#FF0000FF", "#0000FFFF"))
+```
+
