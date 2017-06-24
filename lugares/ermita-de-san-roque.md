@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Ermita de San Roque
-header-img: /img/ermita-de-san-roque-1.jpg
-category: Etnográfico
-comments: 'true'
+title: "Ermita de San Roque"
+header-img: "/img/ermita-de-san-roque-1.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
-Antigua ermita habitada en una casa colindante hasta el s.XIX donde se ubica una noria y una cueva llamada de Trifón.  En dicho lugar encontramos ejemplos de encinas centenarias.
+Antigua ermita con una casa colindante habitada hasta el s.XIX donde se ubica una noria y una cueva llamada de Trifón.  En dicho lugar encontramos ejemplos de encinas centenarias.
+
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -29,3 +31,5 @@ Antigua ermita habitada en una casa colindante hasta el s.XIX donde se ubica una
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

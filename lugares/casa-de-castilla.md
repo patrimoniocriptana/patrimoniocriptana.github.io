@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Casa de Castilla
-header-img: /img/casa-de-castilla-1.jpg
-category: Etnográfico
-comments: 'true'
+title: "Casa de Castilla"
+header-img: "/img/casa-de-castilla-1.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
 Casa típica
+
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -29,3 +31,5 @@ Casa típica
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

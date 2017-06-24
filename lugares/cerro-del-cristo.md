@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Cerro del Cristo
-header-img: /img/cerro-del-cristo-1.jpg
-category: Histórico
-comments: 'true'
+title: "Cerro del Cristo"
+header-img: "/img/cerro-del-cristo-1.jpg"
+category: "Histórico"
+comments: "true"
 ---
 
 
 Cerro que sirvió como punto de vigilancia de la Marca Media durante la Reconquista de estos territorios por los cristianos, y desde donde se puede comunicar con otras torres vigias commo la del Montón de Trigo o La Mira.
+
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -29,3 +31,5 @@ Cerro que sirvió como punto de vigilancia de la Marca Media durante la Reconqui
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

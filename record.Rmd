@@ -16,6 +16,7 @@ opts_knit$set(width=75)
 ```
 `r record$Descripción.completa`
 ```{r}
+carousel <- ""
 if (length(photos)>0) {
     carousel <- '\n<div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->

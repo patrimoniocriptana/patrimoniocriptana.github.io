@@ -7,6 +7,7 @@ library(RCurl)
 library(rmarkdown)
 library(yaml)
 library(dplyr)
+library(knitr)
 
 
 # Carga de los datos
@@ -15,8 +16,7 @@ data <- data %>% arrange(Título)
 headers <- gsub(".", " ", names(data), fixed=T)
 
 # Generar las páginas de los lugares
-for (i in 1:2) {
-  i=1
+for (i in 1:nrow(data)) {
   record <- data[i,]
   file.name <- gsub(" ", "-", tolower(iconv(record$Título, to='ASCII//TRANSLIT')))
   file.name <- gsub("/", "-", file.name)

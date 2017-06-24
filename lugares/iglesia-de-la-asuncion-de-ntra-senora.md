@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Iglesia de la Asunción de Ntra Señora
-header-img: /img/iglesia-de-la-asuncion-de-ntra-senora-1.jpg
-category: Artístico
-comments: 'true'
+title: "Iglesia de la Asunción de Ntra Señora"
+header-img: "/img/iglesia-de-la-asuncion-de-ntra-senora-1.jpg"
+category: "Artístico"
+comments: "true"
 ---
 
 
 Iglesia parroquial de construcción ecléctica inaugurada en 1958. Sustituye a la antigua iglesia de la Asunción del siglo XVI.
+
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -29,3 +31,5 @@ Iglesia parroquial de construcción ecléctica inaugurada en 1958. Sustituye a l
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

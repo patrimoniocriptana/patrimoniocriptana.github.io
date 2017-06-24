@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Chozo MAnos Vueltas
-header-img: /img/fondo-azul.png
-category: Etnográfico
-comments: 'true'
+title: "Chozo Manos Vueltas"
+header-img: "/img/home-bg.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
 Construcción rural en piedra seca.
+
+
+
+
+

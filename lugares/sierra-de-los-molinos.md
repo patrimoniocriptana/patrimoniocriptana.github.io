@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sierra de los molinos
-header-img: /img/sierra-de-los-molinos-1.jpg
-category: Etnográfico
-comments: 'true'
+title: "Sierra de los molinos"
+header-img: "/img/sierra-de-los-molinos-1.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
@@ -24,15 +24,20 @@ Esta sierra contiene la mayor colección de molinos de viento de la Península I
 
 Solamente tres de ellos (Infanto, Burleta y Sardinero) conservan la estructura y maquinaria original del siglo XVI y pueden realizar moliendas como se hacía siglos atrás.
 
+
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>    <li data-target="#myCarousel" data-slide-to="1"></li>
   </ol>
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <img src="{{ site.github.url }}/img/sierra-de-los-molinos-1.jpg" alt="Sierra de los molinos">
+    </div>
+    <div class="item">
+      <img src="{{ site.github.url }}/img/sierra-de-los-molinos-2.jpg" alt="Sierra de los molinos">
     </div>
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -44,3 +49,5 @@ Solamente tres de ellos (Infanto, Burleta y Sardinero) conservan la estructura y
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

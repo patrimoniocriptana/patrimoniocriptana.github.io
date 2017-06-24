@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Chozo MAroto
-header-img: /img/fondo-azul.png
-category: Etnográfico
-comments: 'true'
+title: "Chozo Maroto"
+header-img: "/img/home-bg.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
 Chozo situado entre la unión de tres caminos.
+
+
+
+
+

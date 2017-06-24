@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Cerro de Chitrana
-header-img: /img/cerro-de-chitrana-1.jpg
-category: Histórico
-comments: 'true'
+title: "Cerro de Chitrana"
+header-img: "/img/cerro-de-chitrana-1.jpg"
+category: "Histórico"
+comments: "true"
 ---
 
 
@@ -16,6 +16,8 @@ Con posterioridad se construyó una fortaleza visigoda que posteriormente se mod
 Con anterioridad a la llegada de la Órden, se utilizó como refugio de las tropas musulmanas del valí de Denia Al ffigio, tras las dos batallas de Consuegra (de ahí probablemente las dos lunas de la bandera de Criptana). Tras la desaparión de dicha orden, fue ordenado demoler por Juan II a finales del s. XV para evitar los levantamientos feudales y los Reyes Católicos lo destruyeron para evitar que se utilizase como refugio de maleantes. 
 
 En la actualidad se levanta una ermita del siglo XVI y un perímetro amurallado construído durante el pasado siglo XX.
+
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -37,3 +39,5 @@ En la actualidad se levanta una ermita del siglo XVI y un perímetro amurallado 
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

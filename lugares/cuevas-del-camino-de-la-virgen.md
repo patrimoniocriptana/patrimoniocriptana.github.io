@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Cuevas del Camino de la Virgen
-header-img: /img/cuevas-del-camino-de-la-virgen-1.jpg
-category: Ambiental
-comments: 'true'
+title: "Cuevas del Camino de la Virgen"
+header-img: "/img/cuevas-del-camino-de-la-virgen-1.jpg"
+category: "Ambiental"
+comments: "true"
 ---
 
 
 Pequeñas cuevas naturales 
+
+
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -29,3 +31,5 @@ Pequeñas cuevas naturales
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

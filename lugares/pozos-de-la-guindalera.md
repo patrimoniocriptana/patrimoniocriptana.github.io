@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Pozos de la Guindalera
-header-img: /img/pozos-de-la-guindalera-1.jpg
-category: Etnográfico
-comments: 'true'
+title: "Pozos de la Guindalera"
+header-img: "/img/pozos-de-la-guindalera-1.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
 Antiguos pozos de piedra de donde se abastecía la población de la villa de agua potable.
 
+
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>    <li data-target="#myCarousel" data-slide-to="1"></li>
   </ol>
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
@@ -33,3 +34,5 @@ Antiguos pozos de piedra de donde se abastecía la población de la villa de agu
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

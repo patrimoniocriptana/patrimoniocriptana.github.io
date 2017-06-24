@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Petroglifo de la Senda de los Cantareros
-header-img: /img/petroglifo-de-la-senda-de-los-cantareros-1.jpg
-category: Etnográfico
-comments: 'true'
+title: "Petroglifo de la Senda de los Cantareros"
+header-img: "/img/petroglifo-de-la-senda-de-los-cantareros-1.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
@@ -11,11 +11,12 @@ Piedra que contiene una serie de signos ilegibles grabados con cincel o buril de
 
 Se encuentra en las proximidades de un cruce de caminos. Existen otros tres petroglifos en sus proximidades y más de 30 petroglifos con dibujos más simples en el entorno de la sierra de los molinos.
 
+
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>    <li data-target="#myCarousel" data-slide-to="1"></li>
   </ol>
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
@@ -35,3 +36,5 @@ Se encuentra en las proximidades de un cruce de caminos. Existen otros tres petr
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+

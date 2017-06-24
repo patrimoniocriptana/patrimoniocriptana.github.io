@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Baños de León Sañoso
-header-img: /img/banos-de-leon-sanoso-1.jpg
-category: Etnográfico
-comments: 'true'
+title: "Baños de León Sañoso"
+header-img: "/img/banos-de-leon-sanoso-1.jpg"
+category: "Etnográfico"
+comments: "true"
 ---
 
 
 Restos de unos atiguos baños públicos.
 
+
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>    <li data-target="#myCarousel" data-slide-to="1"></li>    <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
@@ -37,3 +37,5 @@ Restos de unos atiguos baños públicos.
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
