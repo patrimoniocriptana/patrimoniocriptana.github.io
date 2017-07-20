@@ -9,6 +9,10 @@ comments: "true"
 
 Cueva natural sobre la que versan leyendas en su mayoría falsas. Probablemente sirviese de refugio de personas en su día, sin que se sepa mucho más de su aprovechamiento. Estudiadas por arqueólogos e incluso grabadas en su interior en los últimos años del s. XX, en los años sesenta se podía llegar hasta una sala con estalactitas.
 
+Imagen de la cueva
+
+![Cueva de la laguna](https://lh3.googleusercontent.com/5KuxJ6Tj4TPfU2Dfp6cPpy5OijicBFXmWHC941qrygJwsTgqCKUeGskX0MK4YCBzhoobrIz2xlX4=s400 "Cueva de la Laguna_01.jpg")
+
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
